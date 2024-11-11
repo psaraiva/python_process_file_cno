@@ -14,9 +14,9 @@ O arquivo contém informações sobre o Cadastro Nacional de Obras.
 - Arquivo: ```cno.zip``` (*ex. Linux: unzip cno.zip*)
 - Tamanho: ```231 MB```
 - Hash MD5: ```34b1a873525bc570b329c6d9e66defc4```
-- Quantidade de linhas:  ```2.669.957```
 - [Link do arquivo original](https://arquivos.receitafederal.gov.br/cno/cno.zip)
 - Aquivo alvo: ```cno.csv```
+- Quantidade de linhas:  ```2.669.957```
 
 ## Execução
 Todo o arquivo iniciando da linha 1:
